@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <ConditionalRendering num = {undefined} />
+      <ConditionalRendering num = {7} />
     </>
   )
 }
